@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hashCode: 668014372
   material: {fileID: 21855137469139786}
-  materialHashCode: 41408303
+  materialHashCode: -1290558076
   m_Version: 1.1.0
   m_SourceFontFileGUID: 4614df9ec815a45a08f109d32722f99f
   m_SourceFontFile_EditorRef: {fileID: 0}
   m_SourceFontFile: {fileID: 0}
   m_AtlasPopulationMode: 0
   m_FaceInfo:
+    m_FaceIndex: 0
     m_FamilyName: Oswald
     m_StyleName: 
     m_PointSize: 77
@@ -28,7 +29,7 @@ MonoBehaviour:
     m_LineHeight: 114.125
     m_AscentLine: 91.875
     m_CapLine: 62.374996
-    m_MeanLine: 0
+    m_MeanLine: 44.562496
     m_Baseline: 0
     m_DescentLine: -22.3125
     m_SuperscriptOffset: 91.875
@@ -1791,6 +1792,8 @@ MonoBehaviour:
   m_AtlasTextures:
   - {fileID: 28988394213050998}
   m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
+  m_ClearDynamicDataOnBuild: 0
   m_UsedGlyphRects: []
   m_FreeGlyphRects: []
   m_fontInfo:
@@ -1819,7 +1822,7 @@ MonoBehaviour:
   m_AtlasWidth: 512
   m_AtlasHeight: 512
   m_AtlasPadding: 5
-  m_AtlasRenderMode: 16426
+  m_AtlasRenderMode: 16422
   m_glyphInfoList:
   - id: 32
     x: 6
@@ -2884,6 +2887,8 @@ Texture2D:
   m_TextureFormat: 1
   m_MipCount: 1
   m_IsReadable: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_IsPreProcessed: 0
   m_StreamingMipmaps: 0
   m_StreamingMipmapsPriority: 0
   m_AlphaIsTransparency: 0
